@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Change Language Examlple (android&amp;xml)</string>
+    <string name="setting">Settings</string>
+    <string name="eng">English language</string>
+    <string name="uzb">O\'zbek tili</string>
+    <string name="previewtxt">This is an example of using LocaleHelper class</string>
+</resources>

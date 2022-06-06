@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Change Language Examlple (android&amp;xml)</string>
+    <string name="setting">Sozlamalar</string>
+    <string name="eng">English Language</string>
+    <string name="uzb">O\'zbek tili</string>
+    <string name="previewtxt">LocaleHelper class ni ishlatish bo\'yicha namuna</string>
+</resources>
